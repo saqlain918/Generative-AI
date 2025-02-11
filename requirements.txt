@@ -1,0 +1,8 @@
+gradio
+torch
+transformers
+sounddevice
+soundfile
+openai-whisper
+fpdf
+numpy
